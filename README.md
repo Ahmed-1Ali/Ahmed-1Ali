@@ -6,7 +6,7 @@
 <!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00b4d8&height=230&section=header&text=Ahmed%20Ali%20Ibrahim&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=58" alt="Ahmed Ali Ibrahim - Cloud and DevOps Engineer" />
+<img src="" alt="Ahmed Ali Ibrahim - Cloud and DevOps Engineer" />
 
 <a href="https://github.com/Ahmed-1Ali">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;High+Availability+%26+Disaster+Recovery;CI%2FCD+%7C+Infrastructure+as+Code+%7C+Automation" alt="Typing SVG" />
