@@ -3,19 +3,16 @@
      Repo name must be exactly: Ahmed-1Ali  (public, README.md at root)
      ========================================================= -->
 
-<!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00b4d8&height=230&section=header&text=Ahmed%20Ali%20Ibrahim&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descSize=22&descAlignY=58" alt="Ahmed Ali Ibrahim - Cloud and DevOps Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00b4d8&height=140&section=header" alt="" />
 
-<!-- PROFILE PHOTO: uses your GitHub avatar automatically.
-     To use a custom image instead, upload it to assets/profile.png and replace the src with ./assets/profile.png -->
 <img src="https://github.com/Ahmed-1Ali.png?size=160" alt="Ahmed Ali Ibrahim" width="150" height="150" />
 
-<br/>
+<h1>Ahmed Ali Ibrahim</h1>
 
 <a href="https://github.com/Ahmed-1Ali">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;High+Availability+%26+Disaster+Recovery;CI%2FCD+%7C+Infrastructure+as+Code+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;High+Availability+%26+Disaster+Recovery;CI%2FCD+%7C+Infrastructure+as+Code+%7C+Automation" alt="Cloud and DevOps Engineer" />
 </a>
 
 <br/>
@@ -28,23 +25,20 @@
 
 ---
 
-## Hello, I'm Ahmed
+## About Me
 
-Cloud & DevOps Engineer based in **Cairo, Egypt**, with hands-on experience in **AWS cloud infrastructure, Linux administration, containerized environments, CI/CD, and infrastructure automation**. I build and troubleshoot **highly available, recoverable systems**, and I focus on reliable deployment and cloud operations.
+Cloud & DevOps Engineer based in **Cairo, Egypt**, with hands-on experience in **AWS infrastructure, Linux administration, containers, CI/CD, and infrastructure automation**. I build and troubleshoot **highly available, recoverable systems**, with a focus on reliable deployment and cloud operations.
 
-I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can contribute to reliable infrastructure and keep growing toward cloud architecture.
+I'm looking for **Cloud Engineer / DevOps Engineer** roles where I can contribute to reliable infrastructure while growing toward cloud architecture.
+
+- **Education:** B.Sc. in Software Engineering (Minor: Information Systems), AASTMT
+- **Focus:** Cloud Engineering, DevOps, Cloud Operations, Infrastructure Automation, CI/CD
+- **Strengths:** Linux administration, networking, High Availability, Disaster Recovery, application support
+- **Approach:** I combine hands-on troubleshooting with business-process understanding, so solutions fit real requirements
 
 ---
 
-## About Me
-
-- **Education:** B.Sc. in Software Engineering (Minor: Information Systems), Arab Academy for Science, Technology & Maritime Transport (AASTMT)
-- **Focus areas:** Cloud Engineering, DevOps, Cloud Operations, Infrastructure Automation, CI/CD
-- **Hands-on experience:** Linux administration, networking, High Availability, Disaster Recovery, and application support
-- **What I enjoy:** troubleshooting real infrastructure problems (services, storage, networking, replication, firewalls, SELinux) and documenting the fixes
-- **Approach:** I combine technical work with business-process understanding to deliver solutions that fit real requirements
-
-### Experience Snapshot
+## Experience
 
 | Period | Role | Organization | Focus |
 |:--|:--|:--|:--|
@@ -62,7 +56,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 |:--|:--|
 | **Cloud** | AWS (EC2, S3, VPC, IAM, ALB, Systems Manager, CloudFormation), Microsoft Azure, Huawei Cloud, Google Cloud fundamentals |
 | **Containers & Orchestration** | Docker, Docker Compose, Kubernetes, OpenShift (DO180) |
-| **IaC & Automation** | Terraform, Ansible, AWS CloudFormation, Bash scripting |
+| **IaC & Automation** | Terraform, Ansible, AWS CloudFormation, Bash |
 | **CI/CD** | GitHub Actions, Jenkins, GitLab CI/CD |
 | **Operating Systems** | Linux, Red Hat Enterprise Linux, Rocky Linux, Windows Server |
 | **Networking** | TCP/IP, DNS, DHCP, VLANs, Routing, VPN, LAN/WAN, Load Balancing, AWS VPC |
@@ -75,42 +69,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 <div align="center">
 
-**Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud" />
-
-<br/>
-
-**Containers & Orchestration**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Docker and Kubernetes" />
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="OpenShift" />
-
-<br/>
-
-**Infrastructure as Code & Automation**<br/>
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash&theme=dark" alt="IaC and automation" />
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation" />
-
-<br/>
-
-**CI/CD & Version Control**<br/>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git,github&theme=dark" alt="CI/CD and version control" />
-
-<br/>
-
-**Operating Systems**<br/>
-<img src="https://skillicons.dev/icons?i=linux,redhat,windows&theme=dark" alt="Operating systems" />
-<img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux" />
-
-<br/>
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="Databases" />
-<img src="https://img.shields.io/badge/EnterpriseDB-005A9C?style=for-the-badge" alt="EnterpriseDB" />
-
-<br/>
-
-**Web Servers, Monitoring & Scripting**<br/>
-<img src="https://skillicons.dev/icons?i=nginx,apache,prometheus,grafana,py&theme=dark" alt="Web servers, monitoring, scripting" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,linux,redhat,bash,py,git,github,nginx,apache,postgres,mysql,redis,prometheus,grafana&perline=12&theme=dark" alt="Cloud and DevOps tech stack: AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, GitLab, Linux, Red Hat, Bash, Python, Git, GitHub, NGINX, Apache, PostgreSQL, MySQL, Redis, Prometheus, Grafana" />
 
 </div>
 
@@ -124,10 +83,9 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ### 1. Bitrix24 High Availability, Shared Storage & Disaster Recovery
 > Production-style enterprise infrastructure built for a client project.
 
-- Primary and secondary Bitrix24 application servers on **Rocky Linux** (Apache, PHP/PHP-FPM)
-- **Shared NFS storage** for centralized access to uploads and shared application data
-- Centralized database layer with a dedicated **backup server**
-- **Bash automation** for periodic `mysqldump` backups (date-based names, compressed `.sql.gz`)
+- Primary and secondary application servers on **Rocky Linux** (Apache, PHP/PHP-FPM)
+- **Shared NFS storage** for centralized uploads and application data
+- Dedicated **backup server** with **Bash-automated** `mysqldump` backups (date-based names, compressed `.sql.gz`)
 - Validated **restore and disaster recovery** procedures
 - Troubleshooting across MySQL, NFS, firewalld, RPC/RPCBind, SELinux, permissions, and systemd
 
@@ -135,15 +93,13 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 ---
 
-### 2. DevOps Project
-> Dockerized multi-tier application architecture.
+### 2. Dockerized Multi-Tier Application (Flask, NGINX, PostgreSQL, Redis)
+> Containerized application architecture with load balancing and health checks.
 
-- **Flask** application served behind **NGINX**, with **PostgreSQL** and **Redis** backends
-- Orchestrated with **Docker Compose**, running **multiple application instances**
-- **Load balancing** across instances
+- **Flask** application behind **NGINX**, with **PostgreSQL** and **Redis** backends
+- **Docker Compose** orchestration with **multiple application instances** and load balancing
 - **Health checks** and **resource limits** for service reliability
-- Separate **frontend/backend networks** for network isolation
-- Applied **CI/CD concepts** to the delivery workflow
+- Separate **frontend/backend networks** for isolation, with CI/CD concepts applied
 
 `Docker` `Docker Compose` `Flask` `NGINX` `PostgreSQL` `Redis` `CI/CD`
 
@@ -154,8 +110,8 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 - Custom **VPC** with **public and private subnets**
 - **EC2** application hosts and **RDS** database
-- **IAM** roles and **AWS Systems Manager** for secure, SSH-less management
-- **High availability** design with **secure networking**
+- **IAM** roles and **AWS Systems Manager** for SSH-less management
+- **High availability** design with secure networking
 
 `AWS VPC` `EC2` `RDS` `IAM` `Systems Manager`
 
@@ -164,9 +120,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ### 4. EnterpriseDB PostgreSQL High Availability & Automatic Failover
 > Primary/Standby database architecture with tested failover.
 
-- **EDB Advanced Server 18** with **streaming replication** between Primary and Standby
-- Configured WAL-based replication, replication users, `pg_hba.conf`, and PostgreSQL parameters
-- Standby built with **`pg_basebackup`**
+- **EDB Advanced Server 18** with **streaming replication** (WAL-based) between Primary and Standby, standby built with `pg_basebackup`
 - **EDB Failover Manager (EFM)** with **VIP failover**
 - Tested Primary failure, Standby promotion, VIP migration, and cluster-status validation
 - Connected the Bitrix application through a **floating VIP** instead of a fixed database server
@@ -179,66 +133,54 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 | Project | Highlights | Stack |
 |:--|:--|:--|
-| **Highly Available Web Infrastructure on AWS** | VPC, three public subnets, internet-facing **ALB**, EC2; deployed through reusable **CloudFormation** templates; **Systems Manager** (Session Manager, Run Command, State Manager); IAM roles and AWS CLI | `CloudFormation` `EC2` `ALB` `VPC` `SSM` `IAM` `Bash` `YAML` |
+| **Highly Available Web Infrastructure on AWS** | VPC, three public subnets, internet-facing **ALB**, EC2; reusable **CloudFormation** templates; **Systems Manager** (Session Manager, Run Command, State Manager); IAM roles and AWS CLI | `CloudFormation` `EC2` `ALB` `VPC` `SSM` `IAM` `Bash` `YAML` |
 | **Linux Administration Automation** | Bash scripting to automate user and group creation, group assignment, and account management | `Linux` `Bash` |
-| **Docker Containerization & Deployment** | Built and managed Docker images and containers for reproducible application environments | `Docker` `Linux` |
+| **Docker Containerization & Deployment** | Docker images and containers for reproducible application environments | `Docker` `Linux` |
 
 ---
 
 ## Certifications & Learning
 
-| Certification / Training | Issuer | Status |
+| Certification | Issuer | Status |
 |:--|:--|:--|
 | **AWS Certified Cloud Practitioner** | AWS | Completed |
 | **Cisco Certified Network Associate (CCNA)** | Cisco Networking Academy | Completed |
 | **AWS Certified Solutions Architect – Associate** | AWS | In Progress |
 | **Red Hat Certified System Administrator (RHCSA)** | Red Hat | In Progress |
 
-**Training & learning areas**
-- Linux administration (RHCSA Admin I & II coursework)
-- OpenShift (DO180), Kubernetes, and Docker
-- AWS, Huawei Cloud, Microsoft Azure, and Google Cloud fundamentals
-- VMware vSphere / vCenter fundamentals
-- Terraform, Ansible, Jenkins, and GitHub Actions
+**Training areas:** Linux administration (RHCSA Admin I & II coursework), OpenShift (DO180), Kubernetes, Docker, AWS, Huawei Cloud, Azure and Google Cloud fundamentals, VMware vSphere / vCenter, Terraform, Ansible, Jenkins, GitHub Actions
 
 ---
 
 ## Current Focus
 
-- Completing **AWS Certified Solutions Architect – Associate**
-- Completing **RHCSA** certification
+- Completing **AWS Certified Solutions Architect – Associate** and **RHCSA**
 - Deepening **Kubernetes** and **OpenShift** hands-on practice
 - Building more **Terraform**, **Ansible**, and **CI/CD** pipeline projects
 - Strengthening **cloud architecture** skills for high availability and disaster recovery
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahmed-1Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed-1Ali GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-1Ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-1Ali&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## GitHub Contribution & Streak
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ahmed-1Ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-1Ali&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<!-- OPTIONAL: these cards depend on free vercel.app servers that are often rate-limited.
+     To re-enable them, remove the comment markers around this block and test in Preview.
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahmed-1Ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-1Ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-1Ali&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
+-->
 
 ---
 
@@ -265,14 +207,10 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 Cairo, Egypt &nbsp;|&nbsp; Open to Cloud Engineer / DevOps Engineer opportunities
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 **Building reliable, automated, and highly available infrastructure**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1f6feb,100:0d1117&height=120&section=footer" alt="" />
 
 </div>
