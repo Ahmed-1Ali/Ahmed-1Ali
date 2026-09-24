@@ -23,7 +23,7 @@
 ---
 
 <!-- ============================ INTRO ============================ -->
-## 👋 Hello, I'm Ahmed
+##  Hello, I'm Ahmed
 
 Cloud & DevOps Engineer based in **Cairo, Egypt**, with hands-on experience in **AWS cloud infrastructure, Linux administration, containerized environments, CI/CD, and infrastructure automation**. I build and troubleshoot **highly available, recoverable systems**, and I focus on reliable deployment and cloud operations.
 
@@ -32,15 +32,15 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ---
 
 <!-- ============================ ABOUT ============================ -->
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 **B.Sc. in Software Engineering** (Minor: Information Systems), Arab Academy for Science, Technology & Maritime Transport (AASTMT)
-- ☁️ Focus areas: **Cloud Engineering, DevOps, Cloud Operations, Infrastructure Automation, CI/CD**
-- 🐧 Strong in **Linux administration**, **networking**, **High Availability**, **Disaster Recovery**, and **application support**
-- 🔧 I enjoy troubleshooting real infrastructure problems (services, storage, networking, replication, firewalls, SELinux) and documenting the fixes
-- 🧭 I combine technical work with **business-process understanding** to deliver solutions that fit real requirements
+-  **B.Sc. in Software Engineering** (Minor: Information Systems), Arab Academy for Science, Technology & Maritime Transport (AASTMT)
+-  Focus areas: **Cloud Engineering, DevOps, Cloud Operations, Infrastructure Automation, CI/CD**
+-  Strong in **Linux administration**, **networking**, **High Availability**, **Disaster Recovery**, and **application support**
+-  I enjoy troubleshooting real infrastructure problems (services, storage, networking, replication, firewalls, SELinux) and documenting the fixes
+-  I combine technical work with **business-process understanding** to deliver solutions that fit real requirements
 
-### 💼 Experience Snapshot
+###  Experience Snapshot
 
 | Period | Role | Organization | Focus |
 |:--|:--|:--|:--|
@@ -55,49 +55,49 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ---
 
 <!-- ============================ CORE SKILLS ============================ -->
-## 🎯 Core Skills
+##  Core Skills
 
 | Domain | Skills |
 |:--|:--|
-| ☁️ **Cloud** | AWS (EC2, S3, VPC, IAM, ALB, Systems Manager, CloudFormation), Microsoft Azure, Huawei Cloud, Google Cloud fundamentals |
-| 🐳 **Containers & Orchestration** | Docker, Docker Compose, Kubernetes, OpenShift (DO180) |
-| ⚙️ **IaC & Automation** | Terraform, Ansible, AWS CloudFormation, Bash scripting |
-| 🔄 **CI/CD** | GitHub Actions, Jenkins, GitLab CI/CD |
-| 🐧 **Operating Systems** | Linux, Red Hat Enterprise Linux, Rocky Linux, Windows Server |
-| 🌐 **Networking** | TCP/IP, DNS, DHCP, VLANs, Routing, VPN, LAN/WAN, Load Balancing, AWS VPC |
-| 🛡️ **Reliability** | High Availability, Disaster Recovery, Backup & Restore, Failover, Troubleshooting |
-| 🗄️ **Databases** | MySQL, PostgreSQL, EnterpriseDB Advanced Server, Redis |
+|  **Cloud** | AWS (EC2, S3, VPC, IAM, ALB, Systems Manager, CloudFormation), Microsoft Azure, Huawei Cloud, Google Cloud fundamentals |
+|  **Containers & Orchestration** | Docker, Docker Compose, Kubernetes, OpenShift (DO180) |
+|  **IaC & Automation** | Terraform, Ansible, AWS CloudFormation, Bash scripting |
+|  **CI/CD** | GitHub Actions, Jenkins, GitLab CI/CD |
+|  **Operating Systems** | Linux, Red Hat Enterprise Linux, Rocky Linux, Windows Server |
+|  **Networking** | TCP/IP, DNS, DHCP, VLANs, Routing, VPN, LAN/WAN, Load Balancing, AWS VPC |
+|  **Reliability** | High Availability, Disaster Recovery, Backup & Restore, Failover, Troubleshooting |
+|  **Databases** | MySQL, PostgreSQL, EnterpriseDB Advanced Server, Redis |
 
 ---
 
 <!-- ============================ TECH STACK ============================ -->
-## 🧰 Cloud & DevOps Tech Stack
+##  Cloud & DevOps Tech Stack
 
 <div align="center">
 
-**☁️ Cloud**<br/>
+** Cloud**<br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud" />
 
-**🐳 Containers & Orchestration**<br/>
+** Containers & Orchestration**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Containers" />
 <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="OpenShift" />
 
-**⚙️ Infrastructure as Code & Automation**<br/>
+** Infrastructure as Code & Automation**<br/>
 <img src="https://skillicons.dev/icons?i=terraform,ansible,bash&theme=dark" alt="IaC" />
 <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation" />
 
-**🔄 CI/CD & Version Control**<br/>
+** CI/CD & Version Control**<br/>
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git,github&theme=dark" alt="CI/CD" />
 
-**🐧 Operating Systems**<br/>
+** Operating Systems**<br/>
 <img src="https://skillicons.dev/icons?i=linux,redhat,windows&theme=dark" alt="Operating Systems" />
 <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux" />
 
-**🗄️ Databases**<br/>
+** Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="Databases" />
 <img src="https://img.shields.io/badge/EnterpriseDB-005A9C?style=for-the-badge" alt="EnterpriseDB" />
 
-**🌐 Web Servers, Monitoring & Scripting**<br/>
+** Web Servers, Monitoring & Scripting**<br/>
 <img src="https://skillicons.dev/icons?i=nginx,apache,prometheus,grafana,py&theme=dark" alt="Web, Monitoring, Scripting" />
 
 </div>
@@ -105,7 +105,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ---
 
 <!-- ============================ PROJECTS ============================ -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 <!-- TODO: Replace each "Repository" link below with the exact repo URL once the repo is public. -->
 
@@ -127,7 +127,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 ---
 
-### 2️⃣ BARQ DevOps Project
+### 2️⃣ DevOps Project
 > Dockerized multi-tier application architecture.
 
 - **Flask** application served behind **NGINX**, with **PostgreSQL** and **Redis** backends
@@ -184,7 +184,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ---
 
 <!-- ============================ CERTIFICATIONS ============================ -->
-## 🏅 Certifications & Learning
+##  Certifications & Learning
 
 | Certification / Training | Issuer | Status |
 |:--|:--|:--|
@@ -194,27 +194,27 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 | **Red Hat Certified System Administrator (RHCSA)** | Red Hat | 🔄 In Progress |
 
 **Training & learning areas**
-- 🐧 Linux administration (RHCSA Admin I & II coursework)
-- 🐳 OpenShift (DO180), Kubernetes, and Docker
-- ☁️ AWS, Huawei Cloud, Microsoft Azure, and Google Cloud fundamentals
-- 🖥️ VMware vSphere / vCenter fundamentals
-- ⚙️ Terraform, Ansible, Jenkins, and GitHub Actions
+-  Linux administration (RHCSA Admin I & II coursework)
+-  OpenShift (DO180), Kubernetes, and Docker
+-  AWS, Huawei Cloud, Microsoft Azure, and Google Cloud fundamentals
+-  VMware vSphere / vCenter fundamentals
+-  Terraform, Ansible, Jenkins, and GitHub Actions
 
 ---
 
 <!-- ============================ CURRENT FOCUS ============================ -->
-## 🔭 Current Focus
+##  Current Focus
 
-- 🎯 Completing **AWS Certified Solutions Architect – Associate**
-- 🎯 Completing **RHCSA** certification
-- 🎯 Deepening **Kubernetes** and **OpenShift** hands-on practice
-- 🎯 Building more **Terraform**, **Ansible**, and **CI/CD** pipeline projects
-- 🎯 Strengthening **cloud architecture** skills for high availability and disaster recovery
+-  Completing **AWS Certified Solutions Architect – Associate**
+-  Completing **RHCSA** certification
+-  Deepening **Kubernetes** and **OpenShift** hands-on practice
+-  Building more **Terraform**, **Ansible**, and **CI/CD** pipeline projects
+-  Strengthening **cloud architecture** skills for high availability and disaster recovery
 
 ---
 
 <!-- ============================ GITHUB ANALYTICS ============================ -->
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -230,7 +230,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ---
 
 <!-- ============================ CONTRIBUTIONS / STREAK ============================ -->
-## 🔥 GitHub Contribution & Streak
+##  GitHub Contribution & Streak
 
 <div align="center">
 
@@ -245,7 +245,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 ---
 
 <!-- ============================ CONNECT ============================ -->
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -266,7 +266,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 
 <br/><br/>
 
-📍 Cairo, Egypt 🇪🇬 &nbsp;|&nbsp; 💼 Open to Cloud Engineer / DevOps Engineer opportunities
+ Cairo, Egypt 🇪🇬 &nbsp;|&nbsp;  Open to Cloud Engineer / DevOps Engineer opportunities
 
 </div>
 
@@ -277,7 +277,7 @@ I'm looking for **Cloud Engineer / DevOps Engineer** opportunities where I can c
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-**☁️ Building reliable, automated, and highly available infrastructure. ☁️**
+** Building reliable, automated, and highly available infrastructure. **
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer" />
 
